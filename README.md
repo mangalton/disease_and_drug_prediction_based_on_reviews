@@ -60,7 +60,7 @@ Evaluation Metrics:
 Results:
 With BoW vectorization:
 1. Naive Bayes gives the following result
-   <div align="center">
+  <div align="center">
   <img src="1.png" width="600"/>
   <p><em>Naive Bayes on Bag of Words Tokenization</em></p>
    </div>
